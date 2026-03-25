@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/obj/Debug/net8.0/scopedcss/projectbundle/AppWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets/AppWeb.bundle.scp.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/0042365b-b0d4-4460-b8c8-88a26d94bc3d.webp",
+      "PackagePath": "staticwebassets/Imagenes/0042365b-b0d4-4460-b8c8-88a26d94bc3d.webp"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/1289b1f8-0a35-4c22-b4dd-fb8197548ab2.png",
+      "PackagePath": "staticwebassets/Imagenes/1289b1f8-0a35-4c22-b4dd-fb8197548ab2.png"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/237a38af-776b-4acc-9d54-f6c60e2454cb.jpg",
+      "PackagePath": "staticwebassets/Imagenes/237a38af-776b-4acc-9d54-f6c60e2454cb.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/2bcc3905-d4fe-4d36-a863-f6536539041f.jpg",
+      "PackagePath": "staticwebassets/Imagenes/2bcc3905-d4fe-4d36-a863-f6536539041f.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/2dc02424-b3e8-4eab-a5a1-a5a38b47cbb2.webp",
+      "PackagePath": "staticwebassets/Imagenes/2dc02424-b3e8-4eab-a5a1-a5a38b47cbb2.webp"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/2fd1d91d-ae15-4d84-b645-90a19644a241.jpg",
+      "PackagePath": "staticwebassets/Imagenes/2fd1d91d-ae15-4d84-b645-90a19644a241.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/341d332d-b4b2-4090-911c-bed2cd90ebef.jpg",
+      "PackagePath": "staticwebassets/Imagenes/341d332d-b4b2-4090-911c-bed2cd90ebef.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/5ca474f0-5ca4-45a3-bf0a-ff6c51923a78.jpg",
+      "PackagePath": "staticwebassets/Imagenes/5ca474f0-5ca4-45a3-bf0a-ff6c51923a78.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/5e405959-9592-4ac2-a291-ff3099301a66.jpg",
+      "PackagePath": "staticwebassets/Imagenes/5e405959-9592-4ac2-a291-ff3099301a66.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/62d67046-6d4c-4ab1-b1e5-f31275c8d0d8.jpg",
+      "PackagePath": "staticwebassets/Imagenes/62d67046-6d4c-4ab1-b1e5-f31275c8d0d8.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/8d6dbae8-fa27-438e-9a82-45a232de178a.png",
+      "PackagePath": "staticwebassets/Imagenes/8d6dbae8-fa27-438e-9a82-45a232de178a.png"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/8dd9818d-a371-4487-b224-7796fa23cc61.webp",
+      "PackagePath": "staticwebassets/Imagenes/8dd9818d-a371-4487-b224-7796fa23cc61.webp"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/ad75681f-7761-4d56-af85-9e37cf61b725.png",
+      "PackagePath": "staticwebassets/Imagenes/ad75681f-7761-4d56-af85-9e37cf61b725.png"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/e6bcc417-be4c-48e2-8368-d3d21dc21345.jpg",
+      "PackagePath": "staticwebassets/Imagenes/e6bcc417-be4c-48e2-8368-d3d21dc21345.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/e834d8c7-de6d-4859-8496-c626ac7b4815.webp",
+      "PackagePath": "staticwebassets/Imagenes/e834d8c7-de6d-4859-8496-c626ac7b4815.webp"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/e8b21124-fe90-4cee-b1ef-24d6957a70c0.webp",
+      "PackagePath": "staticwebassets/Imagenes/e8b21124-fe90-4cee-b1ef-24d6957a70c0.webp"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/eb17eecc-73c5-4271-bd88-7861bd01249e.jpg",
+      "PackagePath": "staticwebassets/Imagenes/eb17eecc-73c5-4271-bd88-7861bd01249e.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/Imagenes/f6f636cf-7d25-4456-8bd5-7f4c24f79000.jpg",
+      "PackagePath": "staticwebassets/Imagenes/f6f636cf-7d25-4456-8bd5-7f4c24f79000.jpg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/img/banner.jpeg",
+      "PackagePath": "staticwebassets/img/banner.jpeg"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/maddie/Downloads/AppWeb2/AppWeb/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AppWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.AppWeb.props",
+      "PackagePath": "build\\AppWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AppWeb.props",
+      "PackagePath": "buildMultiTargeting\\AppWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AppWeb.props",
+      "PackagePath": "buildTransitive\\AppWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

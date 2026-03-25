@@ -1,0 +1,221 @@
+﻿@using Microsoft.AspNetCore.Mvc.Routing
+@model IEnumerable<AppWeb.Models.Videojuego>
+@{
+    ViewData["Title"] = "Videojuegos";
+}
+
+<div class="container mt-5">
+    <div class="row text-center mb-5">
+
+        <!-- CATEGORÍAS -->
+        <div onclick="mostrarCategorias()" class="col-md-3 mb-3">
+            <div class="feature-card">
+                <i class="fas fa-gamepad"></i>
+                <h5>Categorías</h5>
+                <p>Explora por tipo de juego</p>
+            </div>
+        </div>
+
+        <!-- MÁS VENDIDOS -->
+        <div class="col-md-3 mb-3">
+            <div class="feature-card">
+                <i class="fas fa-fire"></i>
+                <h5>Más Vendidos</h5>
+                <p>Los juegos más populares</p>
+            </div>
+        </div>
+
+        <!-- NUEVOS -->
+
+            <div onclick="mostrarReciente()" class="col-md-3 mb-3">
+                <div class="feature-card">
+                    <i class="fas fa-star"></i>
+                    <h5>Nuevos Juegos</h5>
+                    <p>Lo último en la tienda</p>
+                </div>
+            </div>            
+
+        <!-- PROMOCIONES -->
+        <div onclick="mostrarPromociones()" class="col-md-3 mb-3">
+            <div class="feature-card">
+                <i class="fas fa-tags"></i>
+                <h5>Promociones</h5>
+                <p>Ofertas especiales</p>
+            </div>
+        </div>
+        
+        <div id="categorias" class=" justify-content-center w-100" style="display: none;">
+            <button onclick="filtrar('Deportes')" type="button" class="btn btn-dark m-2 border border-white w-auto">Deportes</button>
+            <button onclick="filtrar('Juegos de pelea')" type="button" class="btn btn-dark m-2 border border-white w-auto">Juegos de pelea</button>
+            <button onclick="filtrar('Simulacion')" type="button" class="btn btn-dark m-2 border border-white w-auto">Simulacion</button>
+            <button onclick="filtrar('Ritmo')" type="button" class="btn btn-dark m-2 border border-white w-auto">Ritmo</button>
+            <button onclick="filtrar('RPG')" type="button" class="btn btn-dark m-2 border border-white w-auto">RPG</button>
+        </div>        
+    </div>
+
+
+    <h2 class="text-center fw-bold mb-4" style="color: #FFD700;"> Videojuegos Disponibles</h2>
+    <div class="row g-4">
+        @foreach (var juego in Model)
+        {
+            <div class="col-md-6 col-lg-4 col-xl-3 tarjeta" 
+            data-fecha="@juego.FechaRegistro.ToString("yyyy-MM-dd")"
+            data-promocion="@juego.Promocion.ToString().ToLower()"
+            data-categoria="@juego.Categoria">
+                <div class="card game-card h-100">
+
+                    <!-- 🔴 BADGE SUPERIOR -->
+                    <div class="badge-top">@juego.Clasificacion</div>
+
+                    <!-- ❤️ FAVORITO -->
+                    <div class="favorite">
+                        <i class="fa-regular fa-heart"></i>
+                    </div>
+
+                    <!-- IMAGEN -->
+                    <img src="@juego.imagen"
+                         class="card-img-top game-img" />
+
+                    <div class="card-body d-flex flex-column">
+
+                        <!-- TÍTULO -->
+                        <h5 class="card-title fw-bold">
+                            @juego.Titulo
+                        </h5>
+
+
+                        <!-- PRECIO -->
+                        <div id="promocion" class="d-flex align-items-center" >
+                        <h4 class="price px-2">
+                            $@juego.Precio
+                        </h4>       
+                        @if(juego.Promocion == true)    
+                        {
+                            <i class="fa-solid fa-tag fa-xl" style="color: rgb(120, 249, 60);"></i>
+                        }                 
+                            
+                        </div>
+
+
+                        <!-- CATEGORÍA -->
+                        <div class="d-flex align-items-center mt-auto" >
+                            <i class="fa-solid fa-gamepad me-2 text-warning"></i>
+                            <span class="text-muted">@juego.Categoria</span>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <script>
+        //si es none al dar el onclick sera flex en caso contrario seria none
+        function mostrarCategorias(){
+            var seccion = document.getElementById("categorias");
+            if(seccion.style.display === "none")
+            {
+                seccion.style.display = "flex";
+            }else
+            {
+                seccion.style.display = "none"
+            }
+        }
+
+        function mostrarPromociones(){
+            var tarjetas = document.querySelectorAll(".tarjeta");
+
+            tarjetas.forEach(function(tarjeta)
+            {
+                if(tarjeta.dataset.promocion === "true")
+                {
+                    tarjeta.style.display = "block";
+                }
+                else
+                {
+                    tarjeta.style.display = "none";
+                }
+            });
+        }
+
+        function mostrarReciente(){
+            var tarjetas = Array.from(document.querySelectorAll(".tarjeta"));
+
+            tarjetas.sort(function(a,b)
+            {
+                return  new Date(b.dataset.fecha) - new Date(a.dataset.fecha);
+            });
+            
+            tarjetas.forEach(function(tarjeta, indice)
+            {
+                if(indice < 10)
+                {
+                    tarjeta.style.display = "block"
+                }
+                else
+                {
+                    tarjeta.style.display = "none"
+                }   
+            });            
+        }
+
+        function filtrar(categoria){
+            var tarjetas = document.querySelectorAll(".tarjeta");
+
+            tarjetas.forEach(function(tarjeta)
+            {
+                if(tarjeta.dataset.categoria === categoria)
+                {
+                    tarjeta.style.display = "block"
+                }
+                else
+                {
+                    tarjeta.style.display = "none"
+                }
+            });
+            
+        }
+    </script>
+
+</div>
+@* @* @model Notas *@
+
+@* @{
+    ViewData["Title"] = "Home Page";
+    // Layout = "_Layout1";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<h2>Videojuegos disponibles</h2>
+
+<div class="row">
+    @foreach (var juego in Model)
+    {
+        <div class="col-md-4">
+            <div class="card-mb-3">
+                <div class="card-body">
+                    <img src="@juego.imagen" width="120" />
+                    <h5 class="card-title">@juego.Titulo</h5>
+                    <p class="card-text">@juego.Descripcion</p>
+                    <p><strong>Categoria: </strong>@juego.Categoria</p>
+                    <p><strong>Precio: </strong>@juego.Precio</p>
+                </div>
+            </div>
+        </div>
+    }
+</div> *@
+
+@* <form asp-controller="Home" asp-action="Calcular" method="post">
+    <input type="number" asp-for="n1" placeholder="Numero 1"/> <br /> <br />
+    <input type="number" asp-for="n2" placeholder="Numero 2" /> <br /> <br />
+    <input type="number" asp-for="n3" placeholder="Numero 3" /> <br /> <br />
+
+    <br /> <br />
+    <input type="submit" name="name" value="Calcular"/>
+</form> *@
+
+@* <h1> @Model.promedio</h1> *@
